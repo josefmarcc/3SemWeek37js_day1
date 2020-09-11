@@ -30,6 +30,6 @@ Source code:	[JavaScript Objects](https://github.com/josefmarcc/3SemWeek37js_day
 
 
 
-Link to website https://wwww.segatos.com
+Link to website https://www.segatos.com
 
 
